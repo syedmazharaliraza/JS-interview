@@ -5,7 +5,7 @@ console.log()
 ``` 
 is not a part of the Javascript language. Confused? Let me explain.
 
-The console object (whose log method is used to print data on the web console) is one of the** Web APIs **provided by the Browser to the JavaScript Engine, which means it is your browser that is providing this functionality that is in return implemented through Javascript.
+The console object (whose log method is used to print data on the web console) is one of the **Web APIs** provided by the Browser to the JavaScript Engine, which means it is your browser that is providing this functionality that is in return implemented through Javascript.
 
 All browsers have a *set of built-in Web APIs* to support complex operations, such as DOM, Fetch, History, Service Workers, and Web Storage APIs. Now you may wonder, what exactly is a part of Javascript then?
 
